@@ -1,0 +1,35 @@
+[
+    {
+          "id": 6,
+          "name": "Eiffel Tower",
+          "country": "france",
+          "description": "The Eiffel Tower is a huge steel-frame structure built by Gustav Eiffel in 1889 to commemorate the Paris Expo, which was held on the 100th anniversary of the French Revolution (1789).",
+          "latitude": 48.8584,
+    "longitude": 2.2945,
+    "picture": "eiffel tower"
+     },
+    {
+          "id": 7,
+          "name": "Statue of Liberty",
+          "country": "united states",
+          "description": "The State of Liberty was donated by France to commemorate the 100th anniversary of American independence in 1886. Although it was a gift for promoting friendship between the U.S. and France, it is now recognized as a symbol of America and freedom by people all over the world.",
+      "latitude": 40.6892,
+          "longitude": -74.0445,
+          "picture": "statue of liberty" },
+    {
+          "id": 8,
+          "name": "Taj Mahal",
+          "country": "india",
+          "description": "The Taj Mahal is a mausoleum structure located in Agra, India, built by Emperor Shah Jahan of the Mughal Empire in memory of the queen. It was designated a UNESCO World Heritage Site in 1983.",
+      "latitude": 27.1751,
+          "longitude": 78.0421,
+          "picture": "taj mahal" },
+    {
+         "id": 9,
+         "name": "Colosseum",
+         "country": "italy",
+         "description": "The Colosseum is an amphitheater built during the Roman Empire and is one of the structures of the ancient Roman period. It is made of limestone, tuff, concrete, and red stucco, and could accommodate more than 50,000 spectators.",
+      "latitude": 41.8902,
+         "longitude": 12.4922,
+         "picture": "colosseum"}
+ ]
